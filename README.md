@@ -9,7 +9,8 @@ openkaze is a modular traffic orchestrator designed for flexible network composi
 
 openkaze is NOT:
 - a monolithic proxy core
-- a protocol collection
+- a protocol zoo
+- config-driven 
 
 # Stability
 
